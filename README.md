@@ -26,7 +26,7 @@ Hi I am Aadit Kannan. I am 14 and like to code.
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aaditmassahacka&count_private=true&show_icons=true&include_all_commits=true?theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aaditmassahacka&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aaditmassahacka.aaditmassahacka)
