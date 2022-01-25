@@ -28,5 +28,6 @@ Hi I am Aadit Kannan. I am 14 and like to code.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aaditmassahacka&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditmassahacka)](https://github.com/aaditmassahacka/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditmassahacka&hide=TeX&layout=compact)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aaditmassahacka.aaditmassahacka)
