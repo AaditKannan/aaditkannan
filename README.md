@@ -1,4 +1,4 @@
-## Welcome... <img src="https://i.gifer.com/XwI7.gif" width="30px">
+## Welcome... <img src="https://i.gifer.com/XwI7.mp4" width="30px">
 
 Aadit Kannan is an entrpreneurial, high energy, intellectually curious, collaborative High School Sophomore with a good mix of engineering and business skills. He has a successful track record of bringing teams together and driving positive outcomes in the areas of Robotics, Engineering, and Marketing. He is pursuing a specialization in STEM with Santa Clara's 49er Institute, and spent the summer of 2022 at Cambridge University in the UK. Learn more about him at his website.
 
