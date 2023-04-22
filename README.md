@@ -1,10 +1,9 @@
 ## Hey! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Hi I am Aadit Kannan. I am 14 and like to code.
+Aadit Kannan is an entrpreneurial, high energy, intellectually curious, collaborative High School Sophomore with a good mix of engineering and business skills. He has a successful track record of bringing teams together and driving positive outcomes in the areas of Robotics, Engineering, and Marketing. He is pursuing a specialization in STEM with Santa Clara's 49er Institute, and spent the summer of 2022 at Cambridge University in the UK. Learn more about him at his website.
 
 [![Linkedin Badge](https://img.shields.io/badge/-aaditkannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/aadit-kannan-693bb822a/))](https://www.linkedin.com/in/aadit-kannan-693bb822a/)
 [![Instagram Badge](https://img.shields.io/badge/-aaditkannan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/aaditkannan//)](https://www.instagram.com/aaditkannan/)
-[![Youtube Badge](https://img.shields.io/badge/-Aadit Kannan-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UClompjyQ83_Riyb7FtTbPdQ)](https://www.youtube.com/channel/UClompjyQ83_Riyb7FtTbPdQ)
 [![Gmail Badge](https://img.shields.io/badge/-aaditkannan734@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaditkannan734@gmail.com)](mailto:aaditkannan734@gmail.com)
 
 ## ⚡ Technologies
