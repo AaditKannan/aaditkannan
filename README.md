@@ -17,7 +17,7 @@ Hi, my name is Aadit Kannan. I am a high school junior with a mix of engineering
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AaditKannan&count_private=true&show_icons=true&include_all_commits=false&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AaditKannan&count_private=false&show_icons=true&include_all_commits=false&theme=tokyonight)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AaditKannan.AaditKannan)
