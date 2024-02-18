@@ -1,4 +1,4 @@
-## Welcome... 
+## Welcome... (INACTIVE FOR A WHILE) 
 
 Hi, my name is Aadit Kannan. I am a high school junior with a mix of engineering and business skills. I have a track record of bringing teams together and excelling in engineering as well as product management. I am pursuing a specialization in mechanical engineering, robotics, physics, and math. I spend most of my free time working on various projects, such as the UAV Material Viability paper I am currently working on, as well as the robotics team I am currently a part of. I also enjoy traveling in my free time and have visited over 20 countries with my family.
 
