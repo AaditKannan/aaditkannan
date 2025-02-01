@@ -1,6 +1,6 @@
 ## Welcome...
 
-Aspiring mechanical engineer passionate about robotics, physics, math, and engineering, with extensive experience in CAD/CAM/CAE, working in 500+ part assemblies and FEA/CFD simulations. Currently a high school junior working on a UAV Material Viability research paper and serving leadership positions on robotics teams, with a track record of bringing teams together. Enjoy traveling with family, having visited over 20 countries.
+Aspiring mechanical engineer passionate about robotics, physics, math, and engineering, with extensive experience in CAD/CAM/CAE, working in 500+ part assemblies and FEA/CFD simulations. Currently a high school senior working on a UAV Material Viability research paper and serving leadership positions on robotics teams, with a track record of bringing teams together. Enjoy traveling with family, having visited over 20 countries.
 
 [![Linkedin Badge](https://img.shields.io/badge/-aaditkannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/aadit-kannan-693bb822a/))](https://www.linkedin.com/in/aadit-kannan-693bb822a/)
 [![Instagram Badge](https://img.shields.io/badge/-aaditkannan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/aaditkannan//)](https://www.instagram.com/aaditkannan/)
