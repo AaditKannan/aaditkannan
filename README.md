@@ -18,8 +18,8 @@ Aspiring mechanical engineer passionate about robotics, physics, math, and engin
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 Inactive for a while...
-
+//
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AaditKannan&count_private=false&show_icons=true&include_all_commits=false&theme=tokyonight)
-
+//
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AaditKannan.AaditKannan)
