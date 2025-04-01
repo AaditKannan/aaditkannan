@@ -1,6 +1,6 @@
 ## Welcome...
 
-Aspiring mechanical engineer passionate about robotics, physics, math, and engineering, with extensive experience in CAD/CAM/CAE, working in 500+ part assemblies and FEA/CFD simulations. Currently a high school senior working on a UAV Material Viability research paper and serving leadership positions on robotics teams, with a track record of bringing teams together. Enjoy traveling with family, having visited over 20 countries.
+Current high school senior passionate about robotics, physics, and math, studying mechanical engineering at UC Berkeley starting fall of 2025. Loves to travel, having visited 20+ countries with family. Passionate about drone photography on the side, documenting every trip. Enjoys spending time at the gym (lifting + calisthenics).
 
 [![Linkedin Badge](https://img.shields.io/badge/-aaditkannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/aadit-kannan-693bb822a/))](https://www.linkedin.com/in/aadit-kannan-693bb822a/)
 [![Instagram Badge](https://img.shields.io/badge/-aaditkannan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/aaditkannan//)](https://www.instagram.com/aaditkannan/)
