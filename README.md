@@ -1,5 +1,3 @@
-<img src="https://github.com/AaditKannan/AaditKannan/blob/main/AADITPFPNEWEST.png?raw=true" width="250" alt="Aadit Kannan Profile Picture"/>
-
 ## Welcome...
 
 Current high school senior passionate about robotics, physics, and math, studying mechanical engineering at UC Berkeley starting fall of 2025. Loves to travel, having visited 20+ countries with family. Passionate about drone photography on the side, documenting every trip. Enjoys spending time at the gym (lifting + calisthenics).
