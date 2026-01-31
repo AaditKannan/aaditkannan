@@ -33,7 +33,7 @@ Research on engineered oxide interfaces for next-generation ultra-low-energy mem
 ## Snapshot
 
 **Major:** Mechanical Engineering @ UC Berkeley  
-**Focus Areas:** SMR hybrid modeling, thin-film materials, accumulator design  
+**Focus Areas:** Robotics, thin-film materials, accumulator design  
 **Hobbies:** espresso, lifting, traveling
 
 ---
