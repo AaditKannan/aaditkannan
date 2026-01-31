@@ -1,61 +1,37 @@
-<div align="center">
+<div align="right">
 
 # 👋 Welcome
 
 Current freshman at **UC Berkeley** studying **mechanical engineering**, passionate about **robotics**, **materials research**, and **drone technology**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-aaditkannan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaditkannan/)
-[![Instagram Badge](https://img.shields.io/badge/-aaditkannan-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aaditkannan/)
-[![Gmail Badge](https://img.shields.io/badge/-aaditkannan734@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:aaditkannan734@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-aaditkannan.com-000000?style=flat-square&logo=firefox&logoColor=white)](https://aaditkannan.com)
+[LinkedIn](https://www.linkedin.com/in/aaditkannan/) • 
+[Instagram](https://www.instagram.com/aaditkannan/) • 
+[email](mailto:aaditkannan734@gmail.com) • 
+[website](https://aaditkannan.com)
 
 ---
 
 ## ⚡ Technologies  
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,git,github,linux,raspberrypi,matlab" />
-</p>
+Python • JavaScript • HTML/CSS • Java • Git/GitHub • Linux • Raspberry Pi • MATLAB
 
 ---
 
-## 🔭 Current Projects & Work
+## 🔭 Work & Projects
 
-### 🏎 Berkeley Formula Electric — Accumulator Mechanical  
-Working on structural components of the high-voltage accumulator and supporting design work in SolidWorks.
+### **Berkeley Formula Electric — Accumulator Mechanical**  
+Structural + CAD work on HV accumulator components.
 
----
+### **Atlas SMR Project**  
+Interactive U.S. platform to explore SMR deployment potential and simulate hybrid-system outputs, grid strain, and feasibility.
 
-### ⚡ Atlas SMR Project  
-Building an **interactive U.S. platform** that:  
-- maps SMR deployment potential  
-- simulates SMR + hybrid energy systems  
-- models energy output, reliability, and grid-strain reduction  
-- visualizes feasibility for rural and nationwide use  
+### **Ramesh Lab — Thin-Film Oxide Heterostructures**  
+Studying functional oxide interfaces for next-generation ultra-low-energy memory materials.
 
 ---
 
-### 🧪 Ramesh Lab — Thin-Film Oxide Heterostructures  
-Exploring functional oxide interfaces for **ultra-low-energy memory**, focusing on emergent electronic and magnetic behavior in thin films.
+## 📌 Quick Snapshot  
+**Major:** Mechanical Engineering @ UC Berkeley  
+**Focus areas:** SMR hybrid modeling, thin-film oxide materials, accumulator design  
+**Hobbies:** espresso, lifting, traveling
 
----
-
-## 📊 GitHub Stats  
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AaditKannan&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaditKannan&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
----
-
-## 📡 Quick Snapshot  
-```yaml
-major: "Mechanical Engineering @ UC Berkeley"
-current_focus:
-  - SMR hybrid grid modeling
-  - thin-film oxide materials
-  - accumulator design (BFE)
-hobbies:
-  - espresso
-  - lifting
-  - traveling
