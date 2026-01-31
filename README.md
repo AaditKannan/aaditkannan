@@ -1,6 +1,6 @@
 ## Welcome...
 
-Current freshman at UC Berkeley passionate about robotics, physics, and math. Loves to travel, having visited 25+ countries with family. Loves doing drone photography on the side, documenting every trip. Enjoys spending time at the gym (lifting + calisthenics).
+Current freshman at UC Berkeley passionate about robotics, physics, and math. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-aaditkannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/aadit-kannan-693bb822a/))](https://www.linkedin.com/in/aadit-kannan-693bb822a/)
 [![Instagram Badge](https://img.shields.io/badge/-aaditkannan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/aaditkannan//)](https://www.instagram.com/aaditkannan/)
