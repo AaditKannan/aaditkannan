@@ -1,22 +1,61 @@
-## Welcome...
+<div align="center">
 
-Current freshman at UC Berkeley passionate about robotics, physics, and math. 
+# 👋 Welcome
 
-[![Linkedin Badge](https://img.shields.io/badge/-aaditkannan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/aadit-kannan-693bb822a/))](https://www.linkedin.com/in/aadit-kannan-693bb822a/)
-[![Instagram Badge](https://img.shields.io/badge/-aaditkannan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/aaditkannan//)](https://www.instagram.com/aaditkannan/)
-[![Gmail Badge](https://img.shields.io/badge/-aaditkannan734@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaditkannan734@gmail.com)](mailto:aaditkannan734@gmail.com)
+Current freshman at **UC Berkeley** studying **mechanical engineering**, passionate about **robotics**, **materials research**, and **drone technology**.
 
-## ⚡ Technologies
+[![Linkedin Badge](https://img.shields.io/badge/-aaditkannan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaditkannan/)
+[![Instagram Badge](https://img.shields.io/badge/-aaditkannan-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aaditkannan/)
+[![Gmail Badge](https://img.shields.io/badge/-aaditkannan734@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:aaditkannan734@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-aaditkannan.com-000000?style=flat-square&logo=firefox&logoColor=white)](https://aaditkannan.com)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+---
 
-Inactive for a while...
+## ⚡ Technologies  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AaditKannan.AaditKannan)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,git,github,linux,raspberrypi,matlab" />
+</p>
+
+---
+
+## 🔭 Current Projects & Work
+
+### 🏎 Berkeley Formula Electric — Accumulator Mechanical  
+Working on structural components of the high-voltage accumulator and supporting design work in SolidWorks.
+
+---
+
+### ⚡ Atlas SMR Project  
+Building an **interactive U.S. platform** that:  
+- maps SMR deployment potential  
+- simulates SMR + hybrid energy systems  
+- models energy output, reliability, and grid-strain reduction  
+- visualizes feasibility for rural and nationwide use  
+
+---
+
+### 🧪 Ramesh Lab — Thin-Film Oxide Heterostructures  
+Exploring functional oxide interfaces for **ultra-low-energy memory**, focusing on emergent electronic and magnetic behavior in thin films.
+
+---
+
+## 📊 GitHub Stats  
+<div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AaditKannan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaditKannan&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📡 Quick Snapshot  
+```yaml
+major: "Mechanical Engineering @ UC Berkeley"
+current_focus:
+  - SMR hybrid grid modeling
+  - thin-film oxide materials
+  - accumulator design (BFE)
+hobbies:
+  - espresso
+  - lifting
+  - traveling
