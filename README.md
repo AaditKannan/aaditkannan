@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5500&pause=4000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=robotics+%C2%B7+materials+science+%C2%B7+space%20%E2%96%8C" alt="typing svg" />
 </p>
+
 ---
 
 right now:
