@@ -1,22 +1,17 @@
 <h1 align="center">
   <samp>Aadit Kannan</samp>
 </h1>
-
 <p align="center">
   <samp>Mechanical Engineering + EECS @ UC Berkeley '29</samp>
 </p>
-
 <p align="center">
   <a href="https://aaditkannan.com">site</a> ·
   <a href="https://www.linkedin.com/in/aaditkannan/">linkedin</a> ·
   <a href="mailto:aaditkannan@berkeley.edu">email</a>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=600&lines=materials+science+%C2%B7+robotics+%C2%B7+space+systems+%C2%B7+energy+%C2%B7+espresso" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5500&pause=4000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=robotics+%C2%B7+space+systems+%C2%B7+materials+science%20%E2%96%8C" alt="typing svg" />
 </p>
-
----
 
 right now:
 
@@ -26,9 +21,7 @@ right now:
 
 previously: 4 years of FTC robotics (8 robots, 500+ part assemblies, 3x design award), [atlas smr](https://atlas-smr.vercel.app/) (nuclear site feasibility tool + research paper), [pear volunteering](https://aaditkannan.com/projects#pear-volunteering) (2000+ users), [inventry](https://aaditkannan.com/projects#inventry) (AI-powered robotics parts marketplace).
 
----
-
-<details>
+<details open>
 <summary><samp>tools i use</samp></summary>
 <br>
 
@@ -40,12 +33,8 @@ previously: 4 years of FTC robotics (8 robots, 500+ part assemblies, 3x design a
 
 </details>
 
----
-
 <p align="center">
   <a href="https://aaditkannan.com">aaditkannan.com</a>
-</p>
-
-<p align="center">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=AaditKannan&style=flat-square&color=grey&label=visitors&base=1369&abbreviated=true" alt="profile views" />
 </p>
