@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=building+things+at+the+intersection+of+hardware+and+software" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=600&lines=materials+science+%C2%B7+robotics+%C2%B7+space+systems+%C2%B7+energy+%C2%B7+espresso" alt="typing svg" />
 </p>
 
 ---
@@ -40,16 +40,6 @@ previously: 4 years of FTC robotics (8 robots, 500+ part assemblies, 3x design a
 
 </details>
 
-<details>
-<summary><samp>what i care about</samp></summary>
-<br>
-
-materials science, robotics, space systems, energy, making tools that actually help people. i like building end-to-end -- from CAD to manufacturing to writing the driver code. most of my projects exist because i ran into a problem and couldn't find a good solution.
-
-outside of engineering: espresso, lifting, traveling, drone footage.
-
-</details>
-
 ---
 
 <p align="center">
@@ -57,5 +47,5 @@ outside of engineering: espresso, lifting, traveling, drone footage.
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AaditKannan.AaditKannan&style=flat-square" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=AaditKannan&style=flat-square&color=grey&label=visitors&base=1369&abbreviated=true" alt="profile views" />
 </p>
