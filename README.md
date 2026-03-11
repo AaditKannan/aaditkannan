@@ -17,6 +17,7 @@ right now:
 - **leitmotif** -- [YC x DeepMind hackathon winner](https://github.com/AaditKannan/leitmotif). real-time generative music system for the visually impaired. gemini vision + lyria audio, each person gets a unique musical motif.
 
 previously: 4 years of FTC robotics (8 robots, 500+ part assemblies, 3x design award), [atlas smr](https://atlas-smr.vercel.app/) (nuclear site feasibility tool + research paper), [pear volunteering](https://aaditkannan.com/projects#pear-volunteering) (2000+ users), [inventry](https://aaditkannan.com/projects#inventry) (AI-powered robotics parts marketplace).
+
 ---
 
 <details open>
@@ -29,6 +30,7 @@ previously: 4 years of FTC robotics (8 robots, 500+ part assemblies, 3x design a
 
 **engineering & design:** `solidworks` `fusion360` `FEA` `CAD/CAM/CAE` `XFLR5` `MATLAB`
 </details>
+
 ---
 
 <p align="center">
