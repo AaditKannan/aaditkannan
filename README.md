@@ -35,5 +35,5 @@ previously: 4 years of FTC robotics (8 robots, 500+ part assemblies, 3x design a
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AaditKannan&style=flat-square&color=blue&label=visitors&base=1369&abbreviated=false" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AaditKannan&style=flat-square&color=blue&label=visitors" alt="profile views" />
 </p>
