@@ -1,17 +1,14 @@
-<h1 align="center">
-  <samp>Aadit Kannan</samp>
-</h1>
+<h1 align="center"><samp>Aadit Kannan</samp></h1>
+<p align="center"><samp>Mechanical Engineering + EECS @ UC Berkeley '29</samp></p>
 <p align="center">
-  <samp>Mechanical Engineering + EECS @ UC Berkeley '29</samp>
-</p>
-<p align="center">
-  <a href="https://aaditkannan.com">site</a> ·
+  <a href="https://aaditkannan.com">aaditkannan.com</a> ·
   <a href="https://www.linkedin.com/in/aaditkannan/">linkedin</a> ·
   <a href="mailto:aaditkannan@berkeley.edu">email</a>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5500&pause=4000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=robotics+%C2%B7+space+systems+%C2%B7+materials+science%20%E2%96%8C" alt="typing svg" />
 </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
 
 right now:
 
@@ -20,6 +17,7 @@ right now:
 - **leitmotif** -- [YC x DeepMind hackathon winner](https://github.com/AaditKannan/leitmotif). real-time generative music system for the visually impaired. gemini vision + lyria audio, each person gets a unique musical motif.
 
 previously: 4 years of FTC robotics (8 robots, 500+ part assemblies, 3x design award), [atlas smr](https://atlas-smr.vercel.app/) (nuclear site feasibility tool + research paper), [pear volunteering](https://aaditkannan.com/projects#pear-volunteering) (2000+ users), [inventry](https://aaditkannan.com/projects#inventry) (AI-powered robotics parts marketplace).
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
 
 <details open>
 <summary><samp>tools i use</samp></summary>
@@ -30,11 +28,9 @@ previously: 4 years of FTC robotics (8 robots, 500+ part assemblies, 3x design a
 **libraries & tools:** `pytorch` `tensorflow` `pandas` `numpy` `opencv` `matplotlib` `git` `postgresql` `supabase`
 
 **engineering & design:** `solidworks` `fusion360` `FEA` `CAD/CAM/CAE` `XFLR5` `MATLAB`
-
 </details>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
 
 <p align="center">
-  <a href="https://aaditkannan.com">aaditkannan.com</a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=AaditKannan&style=flat-square&color=grey&label=visitors&base=1369&abbreviated=true" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AaditKannan&style=flat-square&color=blue&label=visitors&base=1369&abbreviated=true" alt="profile views" />
 </p>
